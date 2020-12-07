@@ -1,0 +1,3 @@
+include ':UssdRequest'
+include ':app'
+rootProject.name = "UssdRequest"
